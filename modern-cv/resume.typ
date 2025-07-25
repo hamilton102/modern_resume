@@ -79,7 +79,7 @@
   title: "Resume",
   date: "July 2023 - Present",
   description: "Designer/Developer",
-  title-link: "https://github.com/hamilton102/resume"
+  title-link: "https://github.com/hamilton102/modern_resume"
 )
 
 #resume-item[
